@@ -5,7 +5,7 @@ class Article < ApplicationRecord
 
 
     def self.documents
-        Article.all.map(&:document)
+        Article.includes(:images, :headers, :paragraphs).map(&:document)
     end
 
     def document

@@ -9,7 +9,7 @@
           {
             "order": 0,
             "type": "I",
-            "href": "http://i.imgur.com/BIMgIQc.gif",
+            "href": "https://i.imgur.com/BIMgIQc.gif",
             "title": "hello internet"
           },
           {
@@ -74,7 +74,7 @@
           {
             "order": 0,
             "type": "I",
-            "href": "http://i.imgur.com/BpRDYbB.png",
+            "href": "https://i.imgur.com/BpRDYbB.png",
             "title": "lego-brick"
           },
           {
@@ -149,7 +149,7 @@
           {
             "order": 0,
             "type": "I",
-            "href": "http://i.imgur.com/j3avanw.png",
+            "href": "https://i.imgur.com/j3avanw.png",
             "title": "lock"
           },
           {
@@ -255,13 +255,13 @@
           {
             "order": 21,
             "type": "I",
-            "href": "http://i.imgur.com/nMFqC04.png",
+            "href": "https://i.imgur.com/nMFqC04.png",
             "title": "auth controller"
           },
           {
             "order": 22,
             "type": "I",
-            "href": "http://i.imgur.com/FdqGyn1.png",
+            "href": "https://i.imgur.com/FdqGyn1.png",
             "title": "authenticate method"
           },
           {
@@ -272,7 +272,7 @@
           {
             "order": 24,
             "type": "I",
-            "href": "http://i.imgur.com/u67N7A9.png",
+            "href": "https://i.imgur.com/u67N7A9.png",
             "title": "token handler"
           },
           {
@@ -298,7 +298,7 @@
           {
             "order": 29,
             "type": "I",
-            "href": "http://i.imgur.com/fMZ1V9v.png",
+            "href": "https://i.imgur.com/fMZ1V9v.png",
             "title": "application controller"
           },
           {
@@ -309,7 +309,7 @@
           {
             "order": 31,
             "type": "I",
-            "href": "http://i.imgur.com/W9C2RX8.png",
+            "href": "https://i.imgur.com/W9C2RX8.png",
             "title": "articles controller"
           },
           {
@@ -339,7 +339,7 @@
           {
             "order": 0,
             "type": "I",
-            "href": "http://i.imgur.com/3P9JtFq.png",
+            "href": "https://i.imgur.com/3P9JtFq.png",
             "title": "keys"
           },
           {
@@ -370,7 +370,7 @@
           {
             "order": 6,
             "type": "I",
-            "href": "http://i.imgur.com/7EvQcjy.png",
+            "href": "https://i.imgur.com/7EvQcjy.png",
             "title": "user login function"
           },
           {
@@ -381,7 +381,7 @@
           {
             "order": 8,
             "type": "I",
-            "href": "http://i.imgur.com/bXIZ0XX.png",
+            "href": "https://i.imgur.com/bXIZ0XX.png",
             "title": "user init"
           },
           {
@@ -392,13 +392,13 @@
           {
             "order": 10,
             "type": "I",
-            "href": "http://i.imgur.com/uk5hSUu.png",
+            "href": "https://i.imgur.com/uk5hSUu.png",
             "title": "authToken factory"
           },
           {
             "order": 11,
             "type": "P",
-            "text": "Angular interceptors allow you to manipulate the request / response headers that $http handles. There are 4 methods available, request / response and error handlers for each. I’m only using the request handler at the moment. I use some logic to only apply the request to the articles resource that are going to mutate the database; i.e., non-idempotent stuff. Also, no sense in authenticate our async template requests."
+            "text": "Angular interceptors allow you to manipulate the request / response headers that $https handles. There are 4 methods available, request / response and error handlers for each. I’m only using the request handler at the moment. I use some logic to only apply the request to the articles resource that are going to mutate the database; i.e., non-idempotent stuff. Also, no sense in authenticate our async template requests."
           },
           {
             "order": 12,
@@ -413,7 +413,7 @@
           {
             "order": 14,
             "type": "I",
-            "href": "http://i.imgur.com/i7TM7kn.png",
+            "href": "https://i.imgur.com/i7TM7kn.png",
             "title": "shell template"
           },
           {
@@ -429,7 +429,7 @@
           {
             "order": 17,
             "type": "I",
-            "href": "http://i.imgur.com/wpC61Ko.png",
+            "href": "https://i.imgur.com/wpC61Ko.png",
             "title": "login modal"
           },
           {
@@ -464,7 +464,7 @@
           {
             "order": 0,
             "type": "I",
-            "href": "http://i.imgur.com/J8BDkJv.png",
+            "href": "https://i.imgur.com/J8BDkJv.png",
             "title": "client-data"
           },
           {
@@ -500,7 +500,7 @@
           {
             "order": 7,
             "type": "I",
-            "href": "http://i.imgur.com/5u6RZKw.png",
+            "href": "https://i.imgur.com/5u6RZKw.png",
             "title": "top-level-json"
           },
           {
@@ -511,7 +511,7 @@
           {
             "order": 9,
             "type": "I",
-            "href": "http://i.imgur.com/SMNw0Hs.png",
+            "href": "https://i.imgur.com/SMNw0Hs.png",
             "title": "single resource"
           },
           {
@@ -592,7 +592,7 @@
           {
             "order": 25,
             "type": "I",
-            "href": "http://i.imgur.com/.zIvxHWQ",
+            "href": "https://i.imgur.com/.zIvxHWQ",
             "title": "Blog Controller"
           },
           {
@@ -603,7 +603,7 @@
           {
             "order": 27,
             "type": "I",
-            "href": "http://i.imgur.com/hWJuu0A.png",
+            "href": "https://i.imgur.com/hWJuu0A.png",
             "title": "Post Controller"
           },
           {
@@ -638,7 +638,7 @@
           {
             "order": 0,
             "type": "I",
-            "href": "http://i.imgur.com/tvZX2Ta.jpg",
+            "href": "https://i.imgur.com/tvZX2Ta.jpg",
             "title": "sentiment analysis"
           },
           {
@@ -654,7 +654,7 @@
           {
             "order": 3,
             "type": "I",
-            "href": "http://i.imgur.com/4fAH8Qs.png",
+            "href": "https://i.imgur.com/4fAH8Qs.png",
             "title": "twitter cli program"
           },
           {
@@ -670,7 +670,7 @@
           {
             "order": 6,
             "type": "I",
-            "href": "http://i.imgur.com/7TZ9x7y.png",
+            "href": "https://i.imgur.com/7TZ9x7y.png",
             "title": "dictionary sample"
           },
           {
@@ -735,7 +735,7 @@
           {
             "order": 0,
             "type": "I",
-            "href": "http://i.imgur.com/Ij8wuJG.jpg",
+            "href": "https://i.imgur.com/Ij8wuJG.jpg",
             "title": "behind the scenes"
           },
           {
@@ -776,7 +776,7 @@
           {
             "order": 8,
             "type": "I",
-            "href": "http://i.imgur.com/tkVLVSR.png",
+            "href": "https://i.imgur.com/tkVLVSR.png",
             "title": "my-para directive"
           },
           {
@@ -787,7 +787,7 @@
           {
             "order": 10,
             "type": "I",
-            "href": "http://i.imgur.com/Ke8bGjo.png",
+            "href": "https://i.imgur.com/Ke8bGjo.png",
             "title": "example my-para"
           },
           {
@@ -803,7 +803,7 @@
           {
             "order": 13,
             "type": "I",
-            "href": "http://i.imgur.com/cMeHk3i.png",
+            "href": "https://i.imgur.com/cMeHk3i.png",
             "title": "SQL diagram"
           },
           {
@@ -849,7 +849,7 @@
           {
             "order": 22,
             "type": "I",
-            "href": "http://i.imgur.com/NMi6KwG.png",
+            "href": "https://i.imgur.com/NMi6KwG.png",
             "title": "google doc add on"
           },
           {
@@ -889,7 +889,7 @@
           {
             "order": 0,
             "type": "I",
-            "href": "http://i.imgur.com/OFBs6YD.png",
+            "href": "https://i.imgur.com/OFBs6YD.png",
             "title": "hot-rod"
           },
           {
@@ -935,7 +935,7 @@
           {
             "order": 9,
             "type": "I",
-            "href": "http://i.imgur.com/lOV1WbT.png",
+            "href": "https://i.imgur.com/lOV1WbT.png",
             "title": "nginx.conf"
           },
           {
@@ -946,7 +946,7 @@
           {
             "order": 11,
             "type": "I",
-            "href": "http://i.imgur.com/JW7DOou.png",
+            "href": "https://i.imgur.com/JW7DOou.png",
             "title": "cache settings"
           },
           {
@@ -1007,7 +1007,7 @@
           {
             "order": 23,
             "type": "I",
-            "href": "http://i.imgur.com/dHp2WLr.png",
+            "href": "https://i.imgur.com/dHp2WLr.png",
             "title": "webpagetest - desktop cable"
           },
           {
@@ -1018,7 +1018,7 @@
           {
             "order": 25,
             "type": "I",
-            "href": "http://i.imgur.com/LNCNX2p.png",
+            "href": "https://i.imgur.com/LNCNX2p.png",
             "title": "webpagetest - mobile 3g"
           },
           {
@@ -1068,7 +1068,7 @@
           {
             "order": 0,
             "type": "I",
-            "href": "http://i.imgur.com/3yq3jJX.jpg",
+            "href": "https://i.imgur.com/3yq3jJX.jpg",
             "title": "es2015"
           },
           {
@@ -1164,7 +1164,7 @@
           {
             "order": 19,
             "type": "I",
-            "href": "http://i.imgur.com/qHA271f.png",
+            "href": "https://i.imgur.com/qHA271f.png",
             "title": "Resume Module"
           },
           {
@@ -1175,7 +1175,7 @@
           {
             "order": 21,
             "type": "I",
-            "href": "http://i.imgur.com/3gkGWSw.png",
+            "href": "https://i.imgur.com/3gkGWSw.png",
             "title": "production index.html"
           },
           {
@@ -1186,7 +1186,7 @@
           {
             "order": 23,
             "type": "I",
-            "href": "http://i.imgur.com/vS14ziq.png",
+            "href": "https://i.imgur.com/vS14ziq.png",
             "title": "development index.html"
           },
           {
@@ -1212,7 +1212,7 @@
           {
             "order": 28,
             "type": "I",
-            "href": "http://i.imgur.com/5oZGS6n.png",
+            "href": "https://i.imgur.com/5oZGS6n.png",
             "title": "BlogCtrl ES6 class"
           },
           {
@@ -1247,7 +1247,7 @@
           {
             "order": 0,
             "type": "I",
-            "href": "http://i.imgur.com/lGVingX.jpg",
+            "href": "https://i.imgur.com/lGVingX.jpg",
             "title": "Areorpess expresso"
           },
           {

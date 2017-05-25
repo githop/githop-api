@@ -1,17 +1,17 @@
 {
   "static": {
     "urls": {
-      "/0.dba79685d30c6d156c26.chunk.js": "65540abf6461a96e9bae4fb361109fc150b5e0ab",
+      "/0.f12e5e97890912cc932a.chunk.js": "42e050e368f4561d3f42e6de1bcc7072be1bab28",
       "/1.b427ff1c7d1f7e4ffead.chunk.js": "b4320686eb1185d863dd4a66b413926a223ebcc5",
       "/2.2ba05346f9a8ebe926a3.chunk.js": "37839ae4b72891b74b5f4dad5d71c2dbc0ea3534",
       "/main.eeeab74103f7f4a527dd.bundle.js": "158357f25319e2777275c2e14544d6b5e8330137",
       "/sw-register.3c07fda92a578453d9a8.bundle.js": "9e2c9149061c227911048347a106b86d42b5eb67",
       "/vendor.af8f64b60abece607fd7.bundle.js": "198f5b443244a7b1238c604c5d182e7be12361be",
-      "/inline.c6c730a51fa78820f42a.bundle.js": "75637d4bd58c675780aa6b2346473cd24d6766fb",
+      "/inline.c3bff6abf5f68aba54b2.bundle.js": "8fe14cb635dd34e86bd2fea98ad6e8795c153874",
       "/styles.018713de446edc911842.bundle.css": "ef7f58ccc94729108c1f74c380508c7ac44fd339",
       "/assets/githopProf.JPG": "8efc3a768d420e8c294705dec014b489930bff95",
       "/favicon.ico": "2d6fafa6a1a1b115fca8794ad23804f6ca2326d3",
-      "/index.html": "7a5246ce5ca748299d7c4865a698f09aca1f5016"
+      "/index.html": "7280055af57747e5dbad017f4849469261e2bafe"
     },
     "_generatedFromWebpack": true
   }

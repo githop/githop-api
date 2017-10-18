@@ -1,16 +1,37 @@
 {
+  "external": {
+    "urls": [
+      {
+        "url": "https://fonts.googleapis.com/css?family=Fira+Mono"
+      }
+    ]
+  },
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "prefix": false
+      },
+      "/resume": {
+        "prefix": false
+      },
+      "/blog": {
+        "prefix": true
+      }
+    }
+  },
   "static": {
     "urls": {
-      "/0.98021c12ca827e2334ac.chunk.js": "602f014db5e947ac26e1b5f8846dfcbba2382754",
-      "/1.893bf4e29f51284d7c0a.chunk.js": "e3bdc332962be96e5d6e4f68f44dd53829a755c4",
-      "/main.91a30bc716a0e76a3f1c.bundle.js": "01f47734d2542d2a1aeb92808f09541da4b0b4af",
-      "/sw-register.d5ba193e5f17507fd51e.bundle.js": "963462a5a25fd2faafe5af76d6cc21b0dc3691c6",
-      "/vendor.63a2f871232100215092.bundle.js": "eb28d13962d3c67724d60de5a0a93f105a3b533f",
-      "/inline.3e255bbf6e6c4f986641.bundle.js": "1c331a33bfa7474eab76d2eb8887146d1d7d6761",
+      "/0.c208d41ca2489a79f541.chunk.js": "e344b6ae253d9438868f86e0b6a7ce81bc3564ff",
+      "/1.9f2da0d0979e97a70a86.chunk.js": "20648371682bf742810cc143f11f5f6757818b17",
+      "/main.3016e7ca7fdd9d8ef12a.bundle.js": "cb2edaf2efbd9396bc3143c62cd89b1076db452e",
+      "/sw-register.373fca2afd13005460b7.bundle.js": "7cea1bb4f806bb5af8ee4ffba4c269e309e55e75",
+      "/vendor.494235850bf4df76fad5.bundle.js": "808a2d36795cde2c9b6d32ca3b2e4c137dc186fd",
+      "/inline.ed63282c5c673f442767.bundle.js": "744bfea54d7f223939d6eb145e9073e7a9a34cbb",
       "/styles.018713de446edc911842.bundle.css": "ef7f58ccc94729108c1f74c380508c7ac44fd339",
       "/assets/githopProf.JPG": "8efc3a768d420e8c294705dec014b489930bff95",
       "/favicon.ico": "2d6fafa6a1a1b115fca8794ad23804f6ca2326d3",
-      "/index.html": "1e9b26f6681c84eb1cf9a1da539493c3b6ddb0dc"
+      "/index.html": "bc08e3e898a84968e5186934924500a78e240a79"
     },
     "_generatedFromWebpack": true
   }

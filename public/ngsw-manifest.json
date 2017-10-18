@@ -22,16 +22,16 @@
   },
   "static": {
     "urls": {
-      "/0.c208d41ca2489a79f541.chunk.js": "e344b6ae253d9438868f86e0b6a7ce81bc3564ff",
-      "/1.9f2da0d0979e97a70a86.chunk.js": "20648371682bf742810cc143f11f5f6757818b17",
-      "/main.3016e7ca7fdd9d8ef12a.bundle.js": "cb2edaf2efbd9396bc3143c62cd89b1076db452e",
-      "/sw-register.373fca2afd13005460b7.bundle.js": "7cea1bb4f806bb5af8ee4ffba4c269e309e55e75",
-      "/vendor.494235850bf4df76fad5.bundle.js": "808a2d36795cde2c9b6d32ca3b2e4c137dc186fd",
-      "/inline.ed63282c5c673f442767.bundle.js": "744bfea54d7f223939d6eb145e9073e7a9a34cbb",
-      "/styles.018713de446edc911842.bundle.css": "ef7f58ccc94729108c1f74c380508c7ac44fd339",
-      "/assets/githopProf.JPG": "8efc3a768d420e8c294705dec014b489930bff95",
-      "/favicon.ico": "2d6fafa6a1a1b115fca8794ad23804f6ca2326d3",
-      "/index.html": "bc08e3e898a84968e5186934924500a78e240a79"
+      "https://githop.com/0.c208d41ca2489a79f541.chunk.js": "e344b6ae253d9438868f86e0b6a7ce81bc3564ff",
+      "https://githop.com/1.9f2da0d0979e97a70a86.chunk.js": "20648371682bf742810cc143f11f5f6757818b17",
+      "https://githop.com/main.3016e7ca7fdd9d8ef12a.bundle.js": "cb2edaf2efbd9396bc3143c62cd89b1076db452e",
+      "https://githop.com/sw-register.373fca2afd13005460b7.bundle.js": "7cea1bb4f806bb5af8ee4ffba4c269e309e55e75",
+      "https://githop.com/vendor.494235850bf4df76fad5.bundle.js": "808a2d36795cde2c9b6d32ca3b2e4c137dc186fd",
+      "https://githop.com/inline.ed63282c5c673f442767.bundle.js": "744bfea54d7f223939d6eb145e9073e7a9a34cbb",
+      "https://githop.com/styles.018713de446edc911842.bundle.css": "ef7f58ccc94729108c1f74c380508c7ac44fd339",
+      "https://githop.com/assets/githopProf.JPG": "8efc3a768d420e8c294705dec014b489930bff95",
+      "https://githop.com/favicon.ico": "2d6fafa6a1a1b115fca8794ad23804f6ca2326d3",
+      "https://githop.com/index.html": "2a7bbadc3dae49ce0bed708d4334a9bf1db08894"
     },
     "_generatedFromWebpack": true
   }

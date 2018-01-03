@@ -9,9 +9,9 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/0.d22bc289ca92b741cab0.chunk.js",
+        "/0.0b00c2415add1212563d.chunk.js",
         "/1.4568efaeefcf1a10d782.chunk.js",
-        "/inline.4126bf9105a652e93ac0.bundle.js",
+        "/inline.40d2b4fb812ddfae8451.bundle.js",
         "/main.467cfff3b6b8c3b4b001.bundle.js",
         "/styles.1ab2f1d0c1242e7f2727.bundle.css"
       ],
@@ -35,7 +35,7 @@
     {
       "name": "articles",
       "patterns": [
-        "https:\\/\\/githop\\.com\\/api\\/articles\\/.*"
+        "https:\\/\\/githop\\.com\\/api\\/articles"
       ],
       "strategy": "performance",
       "maxSize": 20,
@@ -44,15 +44,15 @@
     }
   ],
   "hashTable": {
-    "/0.d22bc289ca92b741cab0.chunk.js": "f541ccd2282fcb6277b7d8ec179a757ea9d1b1b4",
+    "/0.0b00c2415add1212563d.chunk.js": "ff0809396fa79f16b0af828ef6301a6ecd2c87f0",
     "/assets/githopProf-144x144.png": "1a8d07e42ed0d26a992bd00110413ac7efc8ea2e",
     "/1.4568efaeefcf1a10d782.chunk.js": "dbe187c80e4bd97dc4f40faf61ad22a5e70702f3",
     "/assets/githopProf-194x194.png": "3f92a7d71b10d5578d28f8fcc930cb7f3ef44a85",
-    "/inline.4126bf9105a652e93ac0.bundle.js": "6b0459874036077835c70f321aeb775f60723595",
+    "/inline.40d2b4fb812ddfae8451.bundle.js": "6568a96d81b205970fc040213974276a87b10a51",
     "/assets/githopProf-300x300.JPG": "8efc3a768d420e8c294705dec014b489930bff95",
     "/main.467cfff3b6b8c3b4b001.bundle.js": "58660050eaf0fabd3673eb9272dffe555aaea7b7",
     "/styles.1ab2f1d0c1242e7f2727.bundle.css": "e054b009d011fe2483a628fd6d11ecd09aae5512",
     "/favicon.ico": "2d6fafa6a1a1b115fca8794ad23804f6ca2326d3",
-    "/index.html": "2592c1b8184d59ccc3dd2c56b941517559605acb"
+    "/index.html": "3a457a38bd61fc7a49e81e2437feac297cd482b0"
   }
 }
